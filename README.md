@@ -31,8 +31,10 @@ Basic optimization algorithms and statistic examples using Numpy in python
 ### 1. Stochastic Gradient Descent
 
 ### 2. Gradient Descent with Momentum
+> * Nestrov Gradient Descent
 
 ### 3. Gradient Descent with Adaptive Regularization
+> * AdaGrad
   
   
 ## References
